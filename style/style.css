@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(20, 29, 38)
+}
+
+.login{
+    color:white;
+    margin-top: 10em;
+}
+.left{
+    background-color: rgb(43, 58, 73); 
+}
+.right{
+  
+    background-color: rgb(36, 49, 62);
+    height: 40vh;
+}
+.bot{
+    position:absolute;
+    bottom:0;
+    font-size: 12px;
+}
